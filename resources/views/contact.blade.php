@@ -7,6 +7,6 @@
 @section('content')
     <form>
       <input type="text" />
-      <button>Submit</button>  
+      <button>Submit</button>
     </form>    
 @endsection
